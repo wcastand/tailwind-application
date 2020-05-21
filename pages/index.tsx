@@ -15,7 +15,7 @@ const P: React.FC<React.HTMLAttributes<HTMLParagraphElement>> = ({
 
 export default function Home() {
   return (
-    <div className="container bg-gray-50 max-w-4xl min-h-screen text-center mx-auto grid jusify-center items-center p-12 md:p-0">
+    <div className="container bg-gray-50 max-w-4xl min-h-screen text-center mx-auto grid jusify-center items-center p-12 lg:p-0">
       <Head>
         <title>Tailwind Application</title>
         <link rel="icon" href="/favicon.ico" />
